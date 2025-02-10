@@ -39,10 +39,6 @@
   ```
   nano .env
   ```
-- Setting Gwei Jika di perlukan
-  ```
-  nano config.json
-  ```
 - Buat Screen
   ```
   screen -S teafibot
