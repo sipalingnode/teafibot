@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.5",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.7.0",
+    "node-schedule": "^2.1.1",
+    "node-cron": "^3.0.2"
+  }
+}
