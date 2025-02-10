@@ -1,0 +1,14 @@
+{
+  "RPC_URL": "https://polygon-rpc.com",
+  "WMATIC_ADDRESS": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+  "TPOL_ADDRESS": "0x1cd0cd01c8c902adab3430ae04b9ea32cb309cf1",
+  "ITERATIONS": 2,
+  "API_URL_CHECK_IN": "https://api.tea-fi.com/wallet/check-in",
+  "API_URL_CURRENT": "https://api.tea-fi.com/wallet/check-in/current",
+  "APi_TOTAL_POINT": "https://api.tea-fi.com/points",
+  "API_URLS": {
+    "GAS_QUOTE": "https://api.tea-fi.com/transaction/gas-quote",
+    "TRANSACTION": "https://api.tea-fi.com/transaction",
+    "GAS_PRICE": "60"
+  }
+}
