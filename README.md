@@ -53,3 +53,4 @@ Jika sudah jalan ketik `CTRL+AD`
 - Kembali ke screen : `screen -rd teafibot`
 - Cek daftar screen : `screen -ls`
 - Hapus screen : `screen -S namascrenn -X quit`
+- Update bot : `cd teafibot && git pull`
