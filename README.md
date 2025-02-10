@@ -13,7 +13,22 @@
 ---
 
 # AUTO SWAP WPOL TO TPOL TEAFI
+| **Fitur Bot** |
+|---------|
+| Swap WPOL to TPOL  |
+| Multi Account  |
+| Proxy Support  |
+| Daily Check-in   |
+
+---
+
 ## Pastikan kalian sudah install [Nodejs](https://deb.nodesource.com/)
+## Proxy (if you want)
+- Register : [Here](https://app.proxy-cheap.com/r/DPyGQ5)
+- Signup with email
+- Topup with paypal or another
+- Buy Proxy type **Rotating Residential**
+- Done
 ## Join Airdrop
 - Register : [Here](https://app.tea-fi.com/?ref=bamxew)
 - Swap POL to WPOL
@@ -39,13 +54,21 @@
   ```
   nano .env
   ```
+- Submit Proxy (if you want run with proxy)
+  ```
+  nano proxy.txt
+  ```
 - Buat Screen
   ```
   screen -S teafibot
   ```
-- Run Bot
+- Run Bot (no proxy)
   ```
   node multi.js
+  ```
+- Run Bot (with proxy)
+  ```
+  node proxy.js
   ```
 Jika sudah jalan ketik `CTRL+AD`
 
